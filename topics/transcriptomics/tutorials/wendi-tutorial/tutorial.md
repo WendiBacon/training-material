@@ -27,6 +27,7 @@ featureCounts, HTSeq)
 - MultiQC can be used to create a nice summary report of QC information
 - The Galaxy Rule-based Uploader, Collections and Workflows can help
 make analysis more efficient and easier  
+
 contributors:
 - mblue9
 - bphipson
