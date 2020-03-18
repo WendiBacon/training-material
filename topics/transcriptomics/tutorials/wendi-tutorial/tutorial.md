@@ -1,7 +1,7 @@
 ---
 layout: tutorial_hands_on
 
-title: Wendi Tutorial
+title: scRNAseq pre-processing using Alevin
 zenodo_link: ''
 questions:
 - Which biological questions are addressed by the tutorial?
