@@ -18,8 +18,7 @@ key_points:
 - The take-home messages
 - They will appear at the end of the tutorial
 contributors:
-- contributor1
-- contributor2
+- nomadscientist
 
 ---
 
@@ -69,7 +68,7 @@ have fun!
 > 2. Import the files from [Zenodo]() or from the shared data library
 >
 >    ```
->    
+>
 >    ```
 >    ***TODO***: *Add the files by the ones on Zenodo here (if not added)*
 >
